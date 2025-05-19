@@ -1,5 +1,6 @@
 # Chinese-poetry-CCL25-Eval-task51th
 尝试
+比赛地址：https://tianchi.aliyun.com/competition/entrance/532345/introduction?spm=a2c22.12281925.0.0.6a3171372XEcYI
 ## 1. 项目背景与目标
 
 ### 1.1 项目背景
